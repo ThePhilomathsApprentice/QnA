@@ -40,6 +40,7 @@ make inlineFunctionSample
 | does type checking                      | type checking of arguments is not done |
 | defined using the **#define** directive | defined by the **inline** keyword      |
 
+
 ## Meaning of volatile keyword?
 
 if we want any variable to be **NOT** stored in the processor registers, we will indicate the same to the compiler using the keyword volatile.
@@ -47,11 +48,10 @@ if we want any variable to be **NOT** stored in the processor registers, we will
 ## C program Compilation Steps?
 
 Compilation process in C happens in four steps:
-pre-processing,
-compiling,
-assembling,
-and
-linking
++ pre-processing,
++ compiling,
++ assembling,
++ linking
 
 ## Union vs struct difference ?
 
