@@ -17,6 +17,5 @@ int main()
 
     printf("Output is: %d\n", ret);
 
-    
     return 0;
 }
