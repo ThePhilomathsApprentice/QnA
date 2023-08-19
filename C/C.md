@@ -14,8 +14,7 @@ the process of adding one or more empty bytes between the different data types t
 You can try out the below commands in the same directory, to understand better.
 
 ```sh
-gcc structPadding.c
-./a.out
+make struct
 ```
 
 ## What is inline functions?
@@ -30,8 +29,7 @@ function calls are repetitive in nature.
 You can try out the below commands in the same directory, to understand better.
 
 ```sh
-gcc inlineFunction.c
-./a.out
+make inline
 ```
 
 ## Difference between inline function and macro function?
