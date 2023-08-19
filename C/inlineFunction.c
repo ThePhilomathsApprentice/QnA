@@ -16,5 +16,7 @@ int main()
     ret = foo();
 
     printf("Output is: %d\n", ret);
+
+    
     return 0;
 }
